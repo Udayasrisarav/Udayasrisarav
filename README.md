@@ -11,7 +11,7 @@
 </p>
 
 
-<h2 align="center">ResumXpert — AI Resume Analyzer</h2>
+<h2 align="center">ResumeXpert — AI Resume Analyzer</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/Udayasrisarav/resume-xpert/main/resumeXpert.jpg" 
        alt="ResumXpert Dashboard Preview" width="80%" />
