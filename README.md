@@ -1,10 +1,10 @@
 <!-- Udayasri's GitHub Profile README -->
 
-<h2 align="center">ResumeXpert — AI Resume Analyzer</h2>
+<h2 align="center">Udayaaa's Portfolio</h2>
 <p align="center">
-  <a href="https://resume-xpert-analyzer.vercel.app/">
-    <img src="https://raw.githubusercontent.com/Udayasrisarav/resume-xpert/main/resumeXpert.jpg" 
-         alt="ResumXpert Dashboard Preview" width="80%" />
+  <a href="https://udayasri.vercel.app/">
+    <img src="https://api.apiflash.com/v1/urltoimage?access_key=e7c4d321ddee46ad894397c75f36e0a1&url=https://udayasri.vercel.app" 
+         alt="Udayaaa's Portfolio" width="50%" />
   </a>
 </p>
 
